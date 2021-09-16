@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://moti:Md123456789@devconnector.su3pq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mySecretToken",
+    "githubClinetId": "e6a8875bea5e4de2675e",
+    "githubSecret": "87e2bf8103b332d93d2ccd920949f9a7e9cfc78b"
+}
